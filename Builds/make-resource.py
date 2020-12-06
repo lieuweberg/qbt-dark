@@ -25,7 +25,7 @@ parser.add_argument('files', metavar='files', type=str,
                     nargs='*', default=['*'], help='files to include in resources from baseDir, supports glob patterns')
 
 args = parser.parse_args()
-args.output = "mumble-dark"
+args.output = "../dark"
 args.style = "Dark.qss"
 args.baseDir = "mumble-theme"
 args.findFiles = True
