@@ -1,4 +1,4 @@
-# qbt-theme dark
+# qbt-dark
 
 ![](https://f.lieuweberg.com/luTcLD.png)
 
